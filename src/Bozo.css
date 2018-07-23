@@ -1,0 +1,20 @@
+code {
+  font-size: 30px;
+  height: 1em;
+  display: relative;
+  left: 50%;
+}
+.container {
+  height: 100vh;
+  width: 90vw;
+  background: darkgray;
+}
+.button {
+  font-size: 15px;
+  cursor: pointer;
+  border: .5px solid black;
+  padding: 2px;
+}
+.button:hover {
+  background: gray;
+}
